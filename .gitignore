@@ -1,0 +1,4 @@
+# The plaintext bundle holds the whole guide and its screenshots - never commit it.
+build/index.plain.html
+*.bak
+.DS_Store
